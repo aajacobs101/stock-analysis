@@ -51,3 +51,9 @@ In 2017 we saw positive returns on all the stocks except on, TERP.
 ![2018_Analysis](https://user-images.githubusercontent.com/111163264/188523694-f280b95f-ca76-45de-81ab-d2cfa7c32c11.PNG)
 
 2018 has a different story to tell. Only two of the stacks, ENPH and RUN, saw a positive return. We would need to do some additional research to determine why we such a dramatic shift. 
+
+## *Summary*
+
+Refactoring is a necessary part of coding. As we learn and improve in our craft it is necessary and beneficial to revisit code to see if it can be improved or optimized. However, in coding as in life, sometimes we get it right the first time around. When we refactor code we run the risk of damaging or adding unnecessary complexity. Wisdom... We also have to take into consideration the amount of time it will take to refactor vs the benifit we hope to achieve.
+
+As far as our code is concered, we were successful at decreasing the amount of time it took to run. However, I am new to coding and refactoring this bit of code took me a couple of hours. I will need to run that code 14,400 times just to break even. Advantage, I learned and practiced the skills taught in the module. Disadvantage, it wasn't necessary at all.  
